@@ -1,0 +1,6 @@
+{
+  "name": "Dream House Luxury Furniture",
+  "description": "Bespoke ultra-luxury home furniture, customized walk-in wardrobes, and full-scale architectural home transformations in Jorabat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
